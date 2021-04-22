@@ -40,11 +40,6 @@ My Warehouse - приложение для консолидации информ
 - Для быстрого развертывания базы данных можно воспользоваться FlyWay Migration;
 - Дополнительно реализована возможность автоматической генерации таблиц посредством фреймворка Hibernate.
 
-Сообщество
----------
-- Следуйте за нами на [GitHub(Backend)](https://github.com/egorbarinov/commandProject/tree/Dev5),
-  и [GitHub(Frontend)](https://github.com/ZettroMan/warehouse/tree/dev).
-
 ---
 
 <p align="center">
@@ -82,8 +77,3 @@ Installation
 - The application requires a PostgreSQL database;
 - For quick database deployment, you can use FlyWay Migration;
 - In addition, the Hibernate framework provides a Code First approach to automatically create all tables in a database.
-
-Community
----------
-- Follow us on [GitHub(Backend)](https://github.com/egorbarinov/commandProject/tree/Dev5),
-  and [GitHub(Frontend)](https://github.com/ZettroMan/warehouse/tree/dev).

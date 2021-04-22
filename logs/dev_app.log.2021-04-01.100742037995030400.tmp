@@ -1,2 +1,0 @@
-01-04-2021 20:21:16 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/v3/api-docs'], []
-01-04-2021 20:21:16 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/configuration/ui'], []
